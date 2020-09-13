@@ -1,3 +1,5 @@
+This Repo was folk from original intellidev1991/react-native-image-slider-box
+
 # react-native-image-slider-box
 
 [![npm](https://img.shields.io/npm/v/react-native-image-slider-box.svg)](https://www.npmjs.com/package/react-native-image-slider-box)  ![npm](https://img.shields.io/npm/dt/react-native-image-slider-box.svg)
